@@ -1,0 +1,1 @@
+Sine Generator, for single tone sound, bar to adjust frequency
